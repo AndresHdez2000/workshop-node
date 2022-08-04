@@ -1,0 +1,27 @@
+{
+  "name": "scale_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndresHdez2000/workshop-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndresHdez2000/workshop-node/issues"
+  },
+  "homepage": "https://github.com/AndresHdez2000/workshop-node#readme",
+  "dependencies": {
+    "puppeteer": "^16.0.0",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.6.3"
+  }
+}
